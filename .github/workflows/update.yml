@@ -20,9 +20,9 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "darknessm.427@gmail.com"
-          git config --global user.name "darknessm427"
-          git remote set-url origin https://github.com/darknessm427/V2ray-Config-Location/configs.git
+          git config --global user.email "Epodonios@gmail.com"
+          git config --global user.name "Epodonios"
+          git remote set-url origin https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs.git
       
       - name: Install dependencies
         run: |
@@ -34,6 +34,6 @@ jobs:
         run: |
           python main.py  # Replace with your script's path
           git add -A
-          git commit -m " 👾🤖Auto update💀  ✔ - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "The servers have been updated✔ - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git pull --rebase origin main
           git push
