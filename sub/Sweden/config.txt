@@ -12,7 +12,6 @@ trojan://telegram-id-directvpn@13.49.11.178:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.53.147.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.41.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.114.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://60987f86-87ce-43b4-8fe9-8f0926bacf12@185.146.173.134:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2Ray
 vless://b006bee8-12cc-4d48-b64e-520aa5fa8dfa@185.146.173.134:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2Ray
 vless://-Join-Channel-ELiV2ray-@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&encryption=none&host=ELi.elmahstyle.ir&type=ws#FR-@ELiV2ray
 vless://-Join-Channel-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&encryption=none&host=ELi.elmahstyle.ir&type=ws#FR-@ELiV2ray
