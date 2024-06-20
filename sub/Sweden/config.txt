@@ -1,5 +1,7 @@
 trojan://telegram-id-privatevpns@16.170.153.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.27.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+vless://832fd5f2-89fb-4842-b3d5-4f5636f75c32@back.msv2ray.online:80?type=ws&host=sh.st1lol.ir&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=none#%F0%9F%93%8DV2pedia-zysh-WIFI%F0%9F%94%B4IRANCELL%F0%9F%9F%A1
+vless://c9d3a2c4-4e2b-40ba-9825-ee041c919da8@back.msv2ray.online:80?type=ws&host=bob.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=none#%F0%9F%93%8DV2pedia-allnet33
 vless://2513ff45-ec58-451a-a704-cec41357409a@back.msv2ray.online:80?type=ws&host=bob.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=none#%F0%9F%93%8DV2pedia-allnet
 trojan://telegram-id-privatevpns@16.170.153.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.27.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
