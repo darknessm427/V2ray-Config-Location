@@ -43,7 +43,6 @@ vless://17e1d7a0-0e4a-4a53-a9d0-a752ad73c916@f1.ELiV2ray.cOm:80?type=ws&path=/@E
 vless://-ELiV2ray-ELiV2ray@188.114.98.224:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&security=none&encryption=none&host=ELi.V2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
 vless://87f383fb-ba22-47a4-943b-f5f0a283f9d7@f1.ELiV2ray.cOm:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
 vless://Telegram-id-ELiV2ray@188.114.98.224:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&security=none&encryption=none&host=ELi.V2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
-vless://-Telegram-id-ELiV2ray@188.114.98.224:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&security=none&encryption=none&host=ELi.V2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2Ftelegram-%40v2ray_alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#configkade%F0%9F%91%89%40proxystore11
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.137.88:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#configkade%F0%9F%91%89%40proxystore11
