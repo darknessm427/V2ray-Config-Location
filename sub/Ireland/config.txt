@@ -19,6 +19,7 @@ trojan://telegram-id-privatevpns@52.209.17.83:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@52.19.70.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@34.246.140.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Freakconfigvless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#TELEGRAM-Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#TELEGRAM-FREAKCONFIG
 trojan://telegram-id-privatevpns@52.17.129.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.254.245.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.254.245.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
@@ -40,3 +41,4 @@ trojan://telegram-id-privatevpns@34.245.73.192:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.252.224.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S886)🇨🇮t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S916)🇨🇮t.me/vmess_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Freakconfigvless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#TELEGRAM-Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#TELEGRAM-FREAKCONFIG
